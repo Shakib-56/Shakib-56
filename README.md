@@ -29,6 +29,15 @@ Currently pursuing my BSc in Computer Science, I spend my time learning new tech
 <img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="VS Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img align="left" alt="Tailwind" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+<img align="left" alt="wordpress" width="30px " src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" />
+<img align="left" alt="three js" width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg" />
+<img align="left" alt="bootstrap" width="30px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+
+
+
+
+
 <br />
 
 ---
@@ -36,6 +45,7 @@ Currently pursuing my BSc in Computer Science, I spend my time learning new tech
 ### 📚 Currently Learning
 - 🌀 Node.js
 - 🌀 React & Next.js
+- 🌀 Three js
 - 🔐 JWT Authentication
 - ⚡ API Security & Performance Optimization
 
@@ -50,6 +60,7 @@ Currently pursuing my BSc in Computer Science, I spend my time learning new tech
 ### 📊 GitHub Stats
 
 ![Shakib's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shakib-56&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shakib-56&layout=compact&theme=tokyonight&hide_border=false)
 
 
 ---
