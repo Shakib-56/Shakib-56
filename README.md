@@ -10,7 +10,7 @@ Currently pursuing my BSc in Computer Science, I spend my time learning new tech
   <a href="https://github.com/shakibhossen?tab=followers">
     <img alt="GitHub followers" src="https://custom-icon-badges.demolab.com/github/followers/shakibhossen?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" />
   </a>
-  <a href="https://github.com/shakibhossen?tab=repositories&sort=stargazers">
+  <a href="https://github.com/Shakib-56?tab=repositories&sort=stargazers">
     <img alt="Total stars" src="https://custom-icon-badges.demolab.com/github/stars/shakibhossen?color=55960c&style=for-the-badge&labelColor=488207&logo=star" />
   </a>
 </p>
