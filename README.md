@@ -34,8 +34,8 @@ Currently pursuing my BSc in Computer Science, I spend my time learning new tech
 ---
 
 ### 📚 Currently Learning
-
-- 🌀 TypeScript & Next.js
+- 🌀 Node.js
+- 🌀 React & Next.js
 - 🔐 JWT Authentication
 - ⚡ API Security & Performance Optimization
 
@@ -43,14 +43,13 @@ Currently pursuing my BSc in Computer Science, I spend my time learning new tech
 
 ### 📫 Connect With Me
 
-- 📧 Email: shakib.devmail@gmail.com
-- 🔗 LinkedIn: [linkedin.com/in/shakib-hossen](https://linkedin.com/in/shakib-hossen)
+- 📧 Email: hossenmdshakib47@gmail.com
 
 ---
 
 ### 📊 GitHub Stats
 
-![Shakib's GitHub stats](https://github-readme-stats.vercel.app/api?username=shakibhossen&show_icons=true&theme=tokyonight)
+![Shakib's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shakib-56&show_icons=true&theme=tokyonight)
 
 ---
 
