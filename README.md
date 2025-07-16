@@ -51,6 +51,8 @@ Currently pursuing my BSc in Computer Science, I spend my time learning new tech
 
 ![Shakib's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shakib-56&show_icons=true&theme=tokyonight)
 
+![Shakib's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?Shakib-56={Shakib-56}&theme={tokyonight}&exclude={exclude})
+
 ---
 
 > ⚡ I'm always open to collaboration, learning new technologies, and building exciting projects. Feel free to explore my repositories and reach out if you’d like to work together!
