@@ -7,7 +7,7 @@ I'm an aspiring full-stack web developer passionate about creating dynamic and u
 Currently pursuing my BSc in Computer Science, I spend my time learning new technologies and building real-world projects to sharpen my development skills.
 
 <p align="left">
-  <a href="https://github.com/shakibhossen?tab=followers">
+  <a href="https://github.com/Shakib-56?tab=followers">
     <img alt="GitHub followers" src="https://custom-icon-badges.demolab.com/github/followers/Shakib-56?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" />
   </a>
   <a href="https://github.com/Shakib-56?tab=repositories&sort=stargazers">
