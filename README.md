@@ -50,7 +50,6 @@ Currently pursuing my BSc in Computer Science, I spend my time learning new tech
 ### 📚 Currently Learning
 - 🌀 Node.js
 - 🌀 React & Next.js
-- 🌀 Three js
 - 🔐 JWT Authentication
 - ⚡ API Security & Performance Optimization
 
