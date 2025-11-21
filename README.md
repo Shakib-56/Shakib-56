@@ -1,6 +1,4 @@
-<p align="center">
- <img src="https://i.ibb.co.com/TM9gHCVQ/profile-01.png"  width="100%" height="40%" alt="profile-01" border="0">
-</p>
+
 # 🧑‍💻 Md. Shakib Hossen
 
 **`Full-Stack Web Developer (MERN Stack)`**
