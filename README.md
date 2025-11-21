@@ -1,5 +1,5 @@
 <p align="center">
-  <img src[="https://ibb.co.com/m5fcHxLn](https://ibb.co.com/m5fcHxLn)" width="100%" />
+  <img src="https://ibb.co.com/m5fcHxLn" width="100%" />
 </p>
 # 🧑‍💻 Md. Shakib Hossen
 
